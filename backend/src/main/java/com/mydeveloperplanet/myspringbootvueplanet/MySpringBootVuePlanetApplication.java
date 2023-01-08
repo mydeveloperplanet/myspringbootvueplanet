@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.myspringbootvueplanet.myspringbootvueplanet;
+package com.mydeveloperplanet.myspringbootvueplanet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

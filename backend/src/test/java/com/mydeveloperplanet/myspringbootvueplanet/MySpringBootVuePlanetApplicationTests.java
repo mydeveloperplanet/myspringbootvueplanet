@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.myspringbootvueplanet.myspringbootvueplanet;
+package com.mydeveloperplanet.myspringbootvueplanet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
